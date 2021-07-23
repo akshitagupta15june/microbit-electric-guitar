@@ -1,3 +1,5 @@
+# Electric Guitar With BBC Micro:bit
+
 ## Inspiration
 
 A guitar is a plucked stringed musical instrument. Normally, the guitar is expensive, but here I have created a cheap and convenient DIY that can help you enjoy and play real chords on an electric micro: bit guitar. Enjoy micro: bit guitar by shifting the pitch up and down octaves.
