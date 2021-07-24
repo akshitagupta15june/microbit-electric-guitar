@@ -1,5 +1,7 @@
 # Electric Guitar With BBC Micro:bit
 
+<img src="https://github.com/akshitagupta15june/microbit-electric-guitar/blob/master/Images/Screenshot%20(122).png" height=400 width=600>
+
 ## Inspiration
 
 A guitar is a plucked stringed musical instrument. Normally, the guitar is expensive, but here I have created a cheap and convenient DIY that can help you enjoy and play real chords on an electric micro: bit guitar. Enjoy micro: bit guitar by shifting the pitch up and down octaves.
