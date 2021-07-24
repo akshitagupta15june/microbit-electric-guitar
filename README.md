@@ -33,8 +33,6 @@ BBC micro: bit as an Instrument Tuner.
 We will try to make it more optimized and add some more chords to it.
 
 
-> Open this page at [https://akshitagupta15june.github.io/microbit-electric-guitar/](https://akshitagupta15june.github.io/microbit-electric-guitar/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
